@@ -1,16 +1,21 @@
 # books
+كىتاب پۇلى نەشرىياتتا بېسىلىپ ئېھتىياجلىقلار ئۈچۈن ھەقسىز تارقىتىپ بېرىش ئۈچۈن ئىشلىتىلىدۇ.  كىتاب يازغۇچىلار ياكى باشقىلارنىڭ شەخسى ئېھتىياجى ئۈچۈن ئىشلىتىلمەيدۇ. 
+
+Kitab puli neshriyatta bésilip éhtiyajliqlar üchün heqsiz tarqitip bérish üchün ishlitilidu.  Kitab yazghuchilar yaki bashqilarning shexsi éhtiyaji üchün ishlitilmeydu. 
 Books - كىتابلار 
 
 /
 Hacking Hands-on Technique
 
- < hrt-demo.pdf  > is demo version of the book. if you would like to purchase full version, please contact <meshreptor@gmail.com>
+ < hrt-demo.pdf  > is demo version of the book. if you would like to purchase full version, $25 , please contact <meshreptor@gmail.com>
  
-    بۇ كىتابنىڭ كۆرسەتمە نۇسخىسى، ئەگەر كىتابنىڭ پۈتۈن قىسمىنى سېتىۋالماقچى بولسىڭىز تۆۋەندىكى ئېلخەتكە خەت يېزىڭ: meshreptor@gmail.com
+    بۇ كىتابنىڭ كۆرسەتمە نۇسخىسى، ئەگەر كىتابنىڭ پۈتۈن قىسمىنى سېتىۋالماقچى بولسىڭىز ,25$, تۆۋەندىكى ئېلخەتكە خەت يېزىڭ: meshreptor@gmail.com
    
   Бу китабниң көрсәтмә нусхиси, әгәр китабниң пүтүн қисмини сетивалмақчи болсиңиз төвәндики елхәткә хәт йезиң:meshreptor@gmail.com
       
-  Bu kitabning körsetme nusxisi, eger kitabning pütün qismini sétiwalmaqchi bolsingiz töwendiki élxetke xet yézing:meshreptor@gmail.com
+  Bu kitabning körsetme nusxisi, eger kitabning pütün qismini sétiwalmaqchi bolsingiz, $25,  töwendiki élxetke xet yézing: meshreptor@gmail.com
+
+  
 
    < hrt-demo.pdf >
 
