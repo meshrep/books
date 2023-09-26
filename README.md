@@ -1,8 +1,10 @@
 # books
+Books - كىتابلار 
+
 كىتاب پۇلى نەشرىياتتا بېسىلىپ ئېھتىياجلىقلار ئۈچۈن ھەقسىز تارقىتىپ بېرىش ئۈچۈن ئىشلىتىلىدۇ.  كىتاب يازغۇچىلار ياكى باشقىلارنىڭ شەخسى ئېھتىياجى ئۈچۈن ئىشلىتىلمەيدۇ. 
 
 Kitab puli neshriyatta bésilip éhtiyajliqlar üchün heqsiz tarqitip bérish üchün ishlitilidu.  Kitab yazghuchilar yaki bashqilarning shexsi éhtiyaji üchün ishlitilmeydu. 
-Books - كىتابلار 
+
 
 /
 Hacking Hands-on Technique
