@@ -1,5 +1,7 @@
 # books
 Books - كىتابلار 
+كىتاپنى بىسىپ چىقىرىشقا ئىئانە قىلىڭ: MESHREPTOR@GMAI.COM
+
 
 كىتاب پۇلى نەشرىياتتا بېسىلىپ ئېھتىياجلىقلار ئۈچۈن ھەقسىز تارقىتىپ بېرىش ئۈچۈن ئىشلىتىلىدۇ.  كىتاب يازغۇچىلار ياكى باشقىلارنىڭ شەخسى ئېھتىياجى ئۈچۈن ئىشلىتىلمەيدۇ. 
 
@@ -7,22 +9,10 @@ Kitab puli neshriyatta bésilip éhtiyajliqlar üchün heqsiz tarqitip bérish �
 
 
 /
-Hacking Hands-on Technique
+Hacking Reall Worl Techniques Foundation
+HackingRealworldTechniques_Uyghur.pdf
 
- < hrt-demo.pdf  > is demo version of the book. if you would like to purchase full version, $25 , please contact <meshreptor@gmail.com>
- 
-    بۇ كىتابنىڭ كۆرسەتمە نۇسخىسى، ئەگەر كىتابنىڭ پۈتۈن قىسمىنى سېتىۋالماقچى بولسىڭىز ,25$, تۆۋەندىكى ئېلخەتكە خەت يېزىڭ: meshreptor@gmail.com
-   
-  Бу китабниң көрсәтмә нусхиси, әгәр китабниң пүтүн қисмини сетивалмақчи болсиңиз төвәндики елхәткә хәт йезиң:meshreptor@gmail.com
-      
-  Bu kitabning körsetme nusxisi, eger kitabning pütün qismini sétiwalmaqchi bolsingiz, $25,  töwendiki élxetke xet yézing: meshreptor@gmail.com
-
-  
-
-   < hrt-demo.pdf >
-
-SHA256          885A51CC542B6E857A4E73D9DBF8B72A09CD6D4D0A7EA05440E7DB33F296BB49
-
+SHA256          B92A4449CE5735001E89D859C7A19C633C0293CE6712387E2F462A7EED3C3DCF
 /
 
 Uyghur OSINT Manual - 
