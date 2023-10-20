@@ -1,6 +1,8 @@
 # books
 Books - كىتابلار 
-كىتاپنى بىسىپ چىقىرىشقا ئىئانە قىلىڭ: MESHREPTOR@GMAI.COM
+
+كىتاپنى بىسىپ چىقىرىشقا ئىئانە قىلىڭ:
+MESHREPTOR@GMAIL.COM
 
 
 كىتاب پۇلى نەشرىياتتا بېسىلىپ ئېھتىياجلىقلار ئۈچۈن ھەقسىز تارقىتىپ بېرىش ئۈچۈن ئىشلىتىلىدۇ.  كىتاب يازغۇچىلار ياكى باشقىلارنىڭ شەخسى ئېھتىياجى ئۈچۈن ئىشلىتىلمەيدۇ. 
@@ -9,10 +11,13 @@ Kitab puli neshriyatta bésilip éhtiyajliqlar üchün heqsiz tarqitip bérish �
 
 
 /
-Hacking Reall Worl Techniques Foundation
+
+Hacking Reall WorlD Techniques Foundation
+
 HackingRealworldTechniques_Uyghur.pdf
 
 SHA256          B92A4449CE5735001E89D859C7A19C633C0293CE6712387E2F462A7EED3C3DCF
+
 /
 
 Uyghur OSINT Manual - 
